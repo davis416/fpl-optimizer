@@ -1,0 +1,1 @@
+"""FPL Squad Optimizer package."""
